@@ -7,4 +7,4 @@
 5)Push your code to your branch.\
 6)Raise the PR.\
 7)Apply Any Changes suggested by Maintainer.\
-8)Repeat until PR gets Merged.\
+8)Repeat until PR gets Merged.
